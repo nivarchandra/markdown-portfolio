@@ -3,8 +3,8 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 
 👍	: * +1 :
 
-😃 : * smile :
+😃 :  * smile :
 
-✨	: * sparkles :
+✨	:  * sparkles :
 
 🎉	: * tada :
