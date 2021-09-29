@@ -1,4 +1,12 @@
 Replace this with a list of your favorite things.
-_includes/04-lists.md
-_includes/04-lists.md
--
+❤️	: * heart :
+
+👍	: * +1 :
+
+😃 : * smile :
+
+✨	: * sparkles :
+
+🎉	: * tada :
+
+
