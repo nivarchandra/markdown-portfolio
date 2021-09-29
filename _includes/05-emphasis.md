@@ -1,12 +1,12 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-❤️	: * heart :
+❤️	:  * heart :
 
-👍	: * +1 :
+👍	:  * +1 :
 
 😃 :  * smile :
 
 ✨	:  * sparkles :
 
-🎉	: * tada :
+🎉	:  * tada :
 
 
